@@ -1,0 +1,36 @@
+.introContainer {
+  position: relative;
+  margin-top: 10%;
+  background-color: rgb(255, 255, 255);
+  height: 720px;
+  border: 5px solid rgb(255, 255, 255);
+  border-radius: 20px;
+  width: 90%;
+  margin-left: 5%;
+  margin-bottom: 10px;
+}
+.about-me {
+  color: rgb(0, 0, 0);
+  width: 40%;
+  float: left;
+  /* border: 2px solid rgb(255, 255, 255); */
+  font-size: 35px;
+  margin-left: 50px;
+  margin-right: auto;
+  margin-top: 150px;
+  text-indent: 50px;
+}
+.picture {
+  width: 50%;
+  float: left;
+  padding: 20px;
+  display: block;
+  margin-left: 50px;
+  margin-right: auto;
+  /* border: 2px solid rgb(255, 255, 255); */
+  text-align: center;
+}
+.intro-title {
+  margin-bottom: 30px;
+  font-size: 70px;
+}
