@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Vincent_react-page/static/css/main.208f25fd.css",
+    "main.js": "/Vincent_react-page/static/js/main.099cb182.js",
+    "static/js/787.64200b19.chunk.js": "/Vincent_react-page/static/js/787.64200b19.chunk.js",
+    "static/media/color-play.mp4": "/Vincent_react-page/static/media/color-play.05f7440e866e4e493215.mp4",
+    "static/media/pink.JPG": "/Vincent_react-page/static/media/pink.bd6e33a3562f3b265a78.JPG",
+    "index.html": "/Vincent_react-page/index.html",
+    "main.208f25fd.css.map": "/Vincent_react-page/static/css/main.208f25fd.css.map",
+    "main.099cb182.js.map": "/Vincent_react-page/static/js/main.099cb182.js.map",
+    "787.64200b19.chunk.js.map": "/Vincent_react-page/static/js/787.64200b19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.208f25fd.css",
+    "static/js/main.099cb182.js"
+  ]
+}
